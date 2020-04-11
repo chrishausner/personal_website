@@ -1,0 +1,8 @@
+/.vscode
+/personal_website/settings.py
+/personal_website/__pycache__/
+/landing_page/__pycache__/
+/landing_page/migrations/
+/venv/
+/db.sqlite3
+
